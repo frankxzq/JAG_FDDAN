@@ -16,7 +16,6 @@ numpy = 1.21.6
 
 You can download PaviaU-C dataset here: https://github.com/YuxiangZhang-BIT/Data-CSHSI.
 
-For the Yellow River Delta dataset, please contact li.zhongwei@vip.163.com.
 
 
 
